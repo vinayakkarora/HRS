@@ -1,2 +1,2 @@
 # HRS
-Hotel Reservation System in Java.
+Hotel Reservation System in Java
